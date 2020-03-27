@@ -7,7 +7,7 @@ using namespace cv;
 int main()
 {
 	VideoCapture cap;
-
+	 
 	cap.open(0);
 
 	while (1)
